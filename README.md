@@ -32,8 +32,9 @@ I'm Cagin Tunc, a versatile software developer and data scientist specializing i
 *  AWS  <br>
 
 
-🌐 Let's Connect <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagin-tunc-computer-scientist/)
+### 🌐 Let's Connect <br>
+
+&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagin-tunc-computer-scientist/)
 
 
 
