@@ -4,8 +4,8 @@
 I'm Cagin Tunc, a versatile software developer and data scientist specializing in machine learning, bioinformatics, and backend development. With a background in Computer Engineering, and currently pursuing a Master of Engineering in Bioinformatics at UC Berkeley, I blend my technical expertise with a passion for problem-solving and innovation. <br>
 
 ### 🎓 Education <br>
-**University of California, Berkeley - Master of Engineering in Bioinformatics 🧬** <br>
-**Izmir Institute of Technology - Bachelor of Computer Engineering 💻**  <br>
+**University of California, Berkeley** - *Master of Engineering in Bioinformatics 🧬* <br>
+**Izmir Institute of Technology** - *Bachelor of Computer Engineering 💻*  <br>
 
 ### 💻 Programming <br>
 &nbsp;![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
@@ -34,7 +34,7 @@ I'm Cagin Tunc, a versatile software developer and data scientist specializing i
 
 ### 🌐 Let's Connect <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagin-tunc-computer-scientist/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagin-tunc-computer-scientist/)
 
 
 
