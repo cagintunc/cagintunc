@@ -34,7 +34,7 @@ I'm Cagin Tunc, a versatile software developer and data scientist specializing i
 
 ### 🌐 Let's Connect <br>
 
-&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagin-tunc-computer-scientist/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cagin-tunc-computer-scientist/)
 
 
 
